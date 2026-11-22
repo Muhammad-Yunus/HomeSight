@@ -1,0 +1,6 @@
+{
+  "name": "Home Sight",
+  "description": "3D spatial residential security dashboard with live 5 FPS FFmpeg WebRTC CCTV streams, PostgreSQL Drizzle persistence, Socket.IO real-time sync, and OpenAPI ingest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
